@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/* Admin Settings */
+.apc_settings_wrap {
+  border: 1px solid #ccd0d4;
+  background: white;
+  padding: 40px;
+}
+.apc_settings_wrap p.border-bottom {
+  border-bottom: 1px solid #ccd0d4;
+  padding-bottom: 10px;
+}
+
+/* Meta Box */
+.apc_metabox {
+  padding: 10px 0;
+}
+.apc_metabox label {
+  display: block;
+  margin-bottom: 10px;
+}
